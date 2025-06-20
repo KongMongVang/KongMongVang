@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I'm Kong
 
-<!--
-**KongMongVang/KongMongVang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year **Full Stack Web Developer** at Humber Polytechnic who loves building clean, creative, and functional web experiences. 
 
-Here are some ideas to get you started:
+I’m passionate about:
+- 🎨 Minimal and elegant design
+- 🛠️ Turning ideas into real projects with code
+- 🌱 Learning new technologies every day
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy oragami 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- JavaScript, SQL, C#
+
+When I’m not coding, I enjoy reading, exploring art and architecture , and discovering new music.
+
+Let’s connect and build something cool!
+
+[📫 Email Me](vangkong@iCloud.com) • [🌐 Portfolio](coming soon)
