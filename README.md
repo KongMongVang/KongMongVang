@@ -16,4 +16,4 @@ When I’m not coding, I enjoy reading, exploring art and architecture , and dis
 
 Let’s connect and build something cool!
 
-[📫 Email Me](vangkong@iCloud.com) • [🌐 Portfolio](coming soon)
+[📫 Email Me] vangkong@iCloud.com • [🌐 Portfolio] coming soon
