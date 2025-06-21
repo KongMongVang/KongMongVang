@@ -7,7 +7,6 @@ I’m passionate about:
 - 🛠️ Turning ideas into real projects with code
 - 🌱 Learning new technologies every day
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy oragami 
 
 Currently learning:
 - JavaScript, SQL, C#
