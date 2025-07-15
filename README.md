@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Kong
 
-I'm a first-year **Full Stack Web Developer** at Humber Polytechnic who loves building clean, creative, and functional web experiences. 
+I'm a first-year **Full Stack Web Developer** at Humber Polytechnic. 
 
 I’m passionate about:
 - 🎨 Minimal and elegant design
