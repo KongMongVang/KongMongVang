@@ -3,9 +3,9 @@
 I’m a **Full Stack Web Developer** at Humber Polytechnic with a passion for creating clean, functional, and visually balanced digital experiences.
 
 I’m passionate about:
-🎨 Minimal, thoughtful design
-🛠️ Turning ideas into real projects with code
-🌱 Learning and experimenting with new technologies
+- 🎨 Minimal, thoughtful design
+- 🛠️ Turning ideas into real projects with code
+- 🌱 Learning and experimenting with new technologies
 
 I’m currently deepening my skills in JavaScript, SQL, C#, PHP, and the MERN stack.
 
