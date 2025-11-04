@@ -13,6 +13,6 @@ When I’m not coding, I enjoy reading, exploring nature, appreciating art and a
 
 Before web developer, I spent more than 15 years in leadership, customer relations, and operations. That experience shaped how I lead teams, communicate clearly, and approach problems with creativity. Now, I’m combining those strengths with my technical skills to build user-focused products and practical digital solutions.
 
-[🌐 Portfolio coming soon]
+Portfolio: https://kongmongvang.github.io/portfolio/
 
 Let’s connect and build something great.
